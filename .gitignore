@@ -107,3 +107,6 @@ dist/*
 !/dist/*.ico
 !/dist/*.html
 !/dist/img
+
+*.pdf
+
