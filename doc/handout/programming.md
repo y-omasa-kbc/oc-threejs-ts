@@ -33,7 +33,7 @@ this.deltaX = 0;
 | 割り算 | / | y = x / 2; |
 
 ## 分岐
-以下のように書かれた箇所がballoon6.tsのメソッドmove()にあります。
+以下のように書かれた箇所がball.tsのメソッドmove()にあります。
 ```
   if(this.y <= 0 && this.deltaY < 0){
     this.deltaY = this.deltaY * -1; //数値を-1倍する(ということは...)
